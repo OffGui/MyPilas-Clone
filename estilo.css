@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: #7AB55C;
+}
+
+header{
+    height: 60px;
+    background-color: #fff;
+}
+
+header img{
+    margin-top: 12px;
+    margin-left: 50px;
+}
